@@ -17,7 +17,6 @@ The project aims to:
 The main components of this project are:
 - **Code:** Contains the R script (`gwrf 9.R`) used to perform data preprocessing, model training, and evaluation.
 - **Data:** Includes the shapefile (`fpc9.shp`) and any other necessary data files used in the analysis.
-- **README.md:** This file, providing an overview of the project and instructions for usage.
 - **Documentation:** Additional documentation or reports related to the assignment (if any).
 
 ## Instructions
@@ -28,11 +27,3 @@ To run the code and reproduce the analysis:
 3. Ensure that all required packages mentioned in the script are installed (`sf`, `grf`, etc.).
 4. Execute the script step by step or all at once to perform data preprocessing, model training, and evaluation.
 5. Review the results and interpretations provided in the script and any additional documentation.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Author
-
-[Your Name]
