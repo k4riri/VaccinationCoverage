@@ -1,6 +1,6 @@
 # BSD 3204 Machine Learning CAT 2 Assignment
 
-This repository contains the code and documentation for the BSD 3204 Machine Learning CAT 2. This assignment focuses on building and evaluating a Generalized Random Forest (GRF) model using spatial data.
+This repository contains the code and documentation for building and evaluating a Generalized Random Forest (GRF) model using spatial data.
 
 ## Overview
 
